@@ -13,7 +13,7 @@ npm i -g whats-day
 whats-day
 
 # 4月1日がなんの日か
-whats-day 4-1
+whats-day -d 4-1
 ```
 
 ### API

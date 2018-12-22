@@ -1,6 +1,6 @@
 {
   "name": "whats-day",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wikipediaの情報を元に、今日が何の日か教えてくれます。",
   "keywords": [
     "cli"
