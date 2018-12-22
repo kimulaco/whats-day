@@ -1,0 +1,8 @@
+.node-version
+npm-debug.log
+package-lock.json
+yarn.lock
+
+node_modules
+__test__
+.vscode
